@@ -1,4 +1,5 @@
 # Домашняя работа
+
 - Установил VirtualBox, Vagrant, Packer, Git
 - Зарегистрировался в Vagrant Cloud, GitHub
 - Склонировал репозиторий 
