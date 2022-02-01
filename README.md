@@ -7,3 +7,4 @@
 - Сделал образ при помощи Packer
 - Загрузил образ в Vagrant Cloud
 - Поправил Vagrantfile для загрузки образа из Vagrant Cloud
+
